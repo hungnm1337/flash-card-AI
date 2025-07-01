@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43A047</color>
+    <color name="colorPrimaryDark">#2E7031</color>
+    <color name="colorAccent">#FFD600</color>
+    <color name="colorSecondary">#00BFA5</color>
+    <color name="colorBackground">#F5F7FA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#222222</color>
+    <color name="colorOnSurface">#222222</color>
+    <color name="colorError">#D32F2F</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="correct">#1BD171</color>
+    <color name="incorrect">#EB4B4D</color>
+    <color name="card">#FED766</color>
+    <color name="orange_500">#FF9800</color>
+    <array name="android_colors">
+        <item>#FED766</item>
+        <item>#C6EBBE</item>
+        <item>#F37748</item>
+        <item>#F4442E</item>
+        <item>#FF9800</item>
+        <item>#E2A0FF</item>
+    </array>
+    <color name="matched_card">#A5D6A7</color>
+    <color name="flipped_card">#BBDEFB</color>
+    <color name="hidden_card">#CFD8DC</color>
+
+    <color name="difficulty_hard">#F44336</color>
+    <color name="difficulty_medium">#FFC107</color>
+    <color name="difficulty_easy">#4CAF50</color>
+
+    <color name="review_due">#F44336</color>
+    <color name="review_scheduled">#2196F3</color>
+</resources>
+

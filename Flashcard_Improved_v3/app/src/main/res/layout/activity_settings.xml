@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.settings.SettingsActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="App Theme"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <RadioGroup
+        android:id="@+id/themeRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioDefaultTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Default Theme"
+            android:textSize="18sp"
+            android:padding="8dp"/>
+
+        <RadioButton
+            android:id="@+id/radioDarkTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dark Theme"
+            android:textSize="18sp"
+            android:padding="8dp"/>
+
+        <RadioButton
+            android:id="@+id/radioLightTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Light Theme"
+            android:textSize="18sp"
+            android:padding="8dp"/>
+
+    </RadioGroup>
+
+</LinearLayout>
+

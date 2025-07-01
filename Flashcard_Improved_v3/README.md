@@ -1,0 +1,13 @@
+Watch the tutorial on [https://youtu.be/qfrDxTbNbEs](https://youtu.be/qfrDxTbNbEs)
+
+![5](https://github.com/shrestharosy/Flashcard/assets/30471808/7173212c-0756-48b7-ae18-3115cc460ee3)
+![6](https://github.com/shrestharosy/Flashcard/assets/30471808/9366dc44-e1cf-46d3-bd90-fd6b50777da0)
+![7](https://github.com/shrestharosy/Flashcard/assets/30471808/067b3f84-a9aa-4863-ad65-c779a2896229)
+![8](https://github.com/shrestharosy/Flashcard/assets/30471808/1d231585-9079-48c5-a275-9a87c95dfb42)
+![9](https://github.com/shrestharosy/Flashcard/assets/30471808/606ebb33-9a93-413a-a50d-1a6537d28b7e)
+![10](https://github.com/shrestharosy/Flashcard/assets/30471808/3d6fc92c-faac-4f8a-9780-fb48bc87731b)
+![11](https://github.com/shrestharosy/Flashcard/assets/30471808/4f3d6ca2-d152-413e-90fc-07e686bf1e9e)
+![12](https://github.com/shrestharosy/Flashcard/assets/30471808/ddba5709-bd05-48fd-affa-7f4abb3b4a58)
+![13](https://github.com/shrestharosy/Flashcard/assets/30471808/861f40b5-cbb9-476f-97d3-cbe01fff033a)
+![14](https://github.com/shrestharosy/Flashcard/assets/30471808/e5102424-ac8c-483a-806f-7164c8fa3837)
+![15](https://github.com/shrestharosy/Flashcard/assets/30471808/a05c5657-6600-4b30-b8c9-54fb3f44b97e)
